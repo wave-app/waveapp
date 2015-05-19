@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=85:E1:E9:0A:45:BF:2D:06:4B:25:87:26:7B:56:C9:ED:EB:36:7E:9E%3Bcom.waveapp.waveapp
+
+    You can also add your credentials to an existing key, using this line:
+    85:E1:E9:0A:45:BF:2D:06:4B:25:87:26:7B:56:C9:ED:EB:36:7E:9E;com.waveapp.waveapp
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyDQpp56SWkEas6K8LSKMMctrXZo0G9cdPA
+    </string>
+</resources>
