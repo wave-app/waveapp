@@ -1926,9 +1926,12 @@ containing a value of this type.
         public static final int adjust_height=0x7f0d0017;
         public static final int adjust_width=0x7f0d0018;
         public static final int alertTitle=0x7f0d0045;
+        public static final int alto_button=0x7f0d0069;
         public static final int always=0x7f0d001c;
+        public static final int baixo_button=0x7f0d0067;
         public static final int beginning=0x7f0d0014;
         public static final int book_now=0x7f0d0031;
+        public static final int btn_checkin=0x7f0d0066;
         public static final int buttonPanel=0x7f0d004b;
         public static final int buyButton=0x7f0d002e;
         public static final int buy_now=0x7f0d0032;
@@ -1949,6 +1952,7 @@ containing a value of this type.
         public static final int end=0x7f0d0015;
         public static final int expand_activities_button=0x7f0d003c;
         public static final int expanded_menu=0x7f0d004c;
+        public static final int fram_map=0x7f0d0065;
         public static final int grayscale=0x7f0d0036;
         public static final int holo_dark=0x7f0d0029;
         public static final int holo_light=0x7f0d002a;
@@ -1962,6 +1966,7 @@ containing a value of this type.
         public static final int list_item=0x7f0d003f;
         public static final int map=0x7f0d0064;
         public static final int match_parent=0x7f0d0030;
+        public static final int medio_button=0x7f0d0068;
         public static final int middle=0x7f0d0016;
         public static final int monochrome=0x7f0d0037;
         public static final int multiply=0x7f0d0024;
@@ -2044,10 +2049,11 @@ containing a value of this type.
         public static final int abc_select_dialog_material=0x7f040017;
         public static final int abc_simple_dropdown_hint=0x7f040018;
         public static final int activity_maps=0x7f040019;
-        public static final int select_dialog_item_material=0x7f04001a;
-        public static final int select_dialog_multichoice_material=0x7f04001b;
-        public static final int select_dialog_singlechoice_material=0x7f04001c;
-        public static final int support_simple_spinner_dropdown_item=0x7f04001d;
+        public static final int dialog=0x7f04001a;
+        public static final int select_dialog_item_material=0x7f04001b;
+        public static final int select_dialog_multichoice_material=0x7f04001c;
+        public static final int select_dialog_singlechoice_material=0x7f04001d;
+        public static final int support_simple_spinner_dropdown_item=0x7f04001e;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
